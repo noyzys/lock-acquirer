@@ -1,2 +1,2 @@
-rootProject.name = "nautchkafe.network.sdk.session"
+rootProject.name = "nautchkafe.network.sdk.lock"
 

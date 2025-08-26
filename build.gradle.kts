@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "dev.nautchkafe.studios.network.session"
+group = "dev.nautchkafe.studios.network.lock"
 version = "1.0-SNAPSHOT"
 
 repositories {
